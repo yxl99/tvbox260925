@@ -61,6 +61,6 @@
 		{"key": "58","name": "盘盘侠","type": 3,"api": "./PY/盘盘侠.py"},
 		{"key": "59","name": "速搜","type": 3,"api": "./PY/速搜.py"},
                                 {"key": "60","name": "影巢","type": 3,"api": "./PY/影巢.py"},
-		{"key": "61","name": "菠菜源","type": 3,"api": "./PY/菠菜源.py"}
+		{"key": "61","name": "菠菜源","type": 3,"api": "./PY/菠菜园.py"}
 	            ]
 }
