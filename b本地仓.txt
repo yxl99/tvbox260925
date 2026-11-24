@@ -27,6 +27,8 @@
 
 { "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/菜妮丝/api.json", "name": "菜妮丝" },
 
+{ "url": "https://9763.kstore.vip/aowu.json", "name": "嗷呜官方" },
+
 { "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/嗷呜/api.json", "name": "嗷呜" },
 
 { "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/少儿频道/api.json", "name": "少儿频道" },
