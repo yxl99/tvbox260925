@@ -1,6 +1,10 @@
 ﻿{ "urls": [
 { "url": "http://bobohome.ignorelist.com:20247/🍙小米/", "name": "最新小米线路影视仓无效" },
 
+{ "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/二月红/api.json", "name": "二月红" },
+
+{ "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/柒豪/api.json", "name": "柒豪" },
+
 { "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/饭太硬/api.json", "name": "饭太硬" },
 
 { "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/小米/api.json", "name": "小米" },
