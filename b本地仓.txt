@@ -29,6 +29,8 @@
 
 { "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/X4菠菜园/api.json", "name": "X4菠菜园" },
 
+{ "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/X4菠菜园/japi.json", "name": "旧X4菠菜园" },
+
 { "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/py源/py.json", "name": "py源" },
 
 { "url": "https://gh-proxy.com/https://github.com/yxl99/tvbox260925/blob/master/戏曲音乐/api.json", "name": "戏曲音乐" }]}
